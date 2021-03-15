@@ -15,8 +15,6 @@ Master's student in Physics at [University of Pisa](https://www.unipi.it/index.p
 - LinkedIn: coming soon
 - Email: lorenzo.marini.1996@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzomarini96&layout=compact)](https://github.com/lorenzomarini96/github-readme-stats)
-
 <!---
 lorenzomarini96/lorenzomarini96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
