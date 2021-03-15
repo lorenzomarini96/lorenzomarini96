@@ -15,6 +15,8 @@ Master's student in Physics at [University of Pisa](https://www.unipi.it/index.p
 - LinkedIn: coming soon
 - Email: lorenzo.marini.1996@gmail.com
 
+[](https://komarev.com/ghpvc/?username=lorenzomarini96&color=green)
+
 <!---
 lorenzomarini96/lorenzomarini96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
