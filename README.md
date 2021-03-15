@@ -1,7 +1,7 @@
-Master's student in Physics at [University of Pisa](https://www.unipi.it/index.php/lauree/corso/10452) with a passion for all fields of science that make deep use of mathematics, statistics and computer technology.
+Master's student in Physics at [University of Pisa](https://www.unipi.it/index.php/lauree/corso/10452) with a passion for all fields of Science that make deep use of Mathematics, Statistics and Computer technology.
 
 - I am currently studying **Physics** at UniPi
-- I am currently studying **Machine Learning** on Python, C, C++ and [ROOT](https://root.cern).
+- I am currently studying **Machine Learning** on **Python**, **C**, **C++** and [ROOT](https://root.cern).
 
 ## Main interests
 - Monte Carlo simulation
@@ -14,6 +14,8 @@ Master's student in Physics at [University of Pisa](https://www.unipi.it/index.p
 - GitHub: [lorenzomarini96](https://github.com/lorenzomarini96)
 - LinkedIn: coming soon
 - Email: lorenzo.marini.1996@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzomarini96&layout=compact)](https://github.com/lorenzomarini96/github-readme-stats)
 
 <!---
 lorenzomarini96/lorenzomarini96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
