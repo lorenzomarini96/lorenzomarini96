@@ -11,11 +11,9 @@ Master's student in Physics at [University of Pisa](https://www.unipi.it/index.p
 - Study of the performance of particle detectors
 
 ### Get in touch
-- GitHub: [lorenzomarini96] (https://github.com/lorenzomarini96)
+- GitHub: [lorenzomarini96](https://github.com/lorenzomarini96)
 - LinkedIn: coming soon
 - Email: lorenzo.marini.1996@gmail.com
-
-[](https://komarev.com/ghpvc/?username=lorenzomarini96&color=green)
 
 <!---
 lorenzomarini96/lorenzomarini96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
